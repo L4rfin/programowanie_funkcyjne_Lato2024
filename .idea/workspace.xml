@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59c45ca7-9ae1-4412-a13f-c20833a3684a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/programowanieFunkcyjneZajecia2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie9.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dGwoEceL2I4jJfBGwEys8EIcmj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.zadanie1.executor": "Run",
+    "Python.zadanie10.executor": "Run",
+    "Python.zadanie11.executor": "Run",
+    "Python.zadanie12.executor": "Run",
+    "Python.zadanie13.executor": "Run",
+    "Python.zadanie14.executor": "Run",
+    "Python.zadanie15.executor": "Run",
+    "Python.zadanie16.executor": "Run",
+    "Python.zadanie17.executor": "Run",
+    "Python.zadanie18.executor": "Run",
+    "Python.zadanie2.executor": "Run",
+    "Python.zadanie3.executor": "Run",
+    "Python.zadanie4.executor": "Run",
+    "Python.zadanie5.executor": "Run",
+    "Python.zadanie6.executor": "Run",
+    "Python.zadanie7.executor": "Run",
+    "Python.zadanie8.executor": "Run",
+    "Python.zadanie9.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/adian/OneDrive/Desktop/Klon-VS-test"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="programowanieFunkcyjneZajecia2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59c45ca7-9ae1-4412-a13f-c20833a3684a" name="Changes" comment="" />
+      <created>1709647896041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709647896041</updated>
+    </task>
+    <servers />
+  </component>
+</project>
